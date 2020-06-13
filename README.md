@@ -11,4 +11,4 @@
 # bash install.sh
 
 
-# bash facebook.py
+# python2 facebook.py
